@@ -2,7 +2,9 @@ public class WideClass1 {
 	//this is a class with a  very long lines; needed to test the merge component on not so wide screens
 	//code itself:
 	//changed (see the changes below)
-	//updated
+	public Integer i1;
+    // update 1
+	
     public void method1(){
          try
     	{
